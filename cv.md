@@ -3,3 +3,4 @@
 3. Learn html, css, js
 4. Skills: html,css,js,php
 5. Junior Dev 
+6. Education: Secondary vocational education
